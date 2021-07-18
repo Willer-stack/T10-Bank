@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "T10 Bank", "T10 Bank\T10 Bank.vbproj", "{7BF0DD87-BFF0-45FB-B596-3B227FC7B83C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF0DD87-BFF0-45FB-B596-3B227FC7B83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF0DD87-BFF0-45FB-B596-3B227FC7B83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF0DD87-BFF0-45FB-B596-3B227FC7B83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF0DD87-BFF0-45FB-B596-3B227FC7B83C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84BB68FE-4223-46C5-8C87-9E03BC6881C4}
+	EndGlobalSection
+EndGlobal
