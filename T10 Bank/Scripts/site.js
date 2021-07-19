@@ -6,8 +6,6 @@ $('.left').addClass('wow');
 $('.left').addClass('fadeInLeft');
 $('.up').addClass('wow');
 $('.up').addClass('fadeInUp');
-$('.down').addClass('wow');
-$('.down').addClass('fadeIn');
 
 var width = screen.width;
 
@@ -17,3 +15,9 @@ if (width < 1024) {
     $('.left').addClass('wow');
     $('.left').addClass('fadeInUp');
 }
+
+$('#telefone').mask('(00) 0000-0000');
+
+$(window).on('beforeunload', function () {
+    $(window).scrollTop(0);
+});
